@@ -17,6 +17,9 @@ public class AmstrongCheck {
 			a=a/10;
 		}
 		if(n==j) {
+
+			int u=5;
+
 			System.out.println("Git conflict");
 			System.out.println("It is an Amstrong number");
 		}
